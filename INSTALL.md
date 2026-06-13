@@ -25,6 +25,10 @@ something. (To force it on: just say *"use the fable5-method skill"*.)
 > the installer for you — you don't install anything manually. If `npx` isn't
 > recognized, install Node.js once from **https://nodejs.org** and try again.
 
+> 🚀 **Want maximum efficiency?** For an important session, paste the contents of
+> **`kickoff-prompt.txt`** as your *first message in the chat* (right after `npx`).
+> It locks the senior-engineer discipline in from message one — costs nothing.
+
 ---
 
 ## 🅱️ The upload-a-file way — for Claude on the web or desktop app

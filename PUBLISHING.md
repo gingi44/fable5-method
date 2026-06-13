@@ -26,6 +26,6 @@ Copy-Item skill\* _stage\fable5-method\
 anyone using Claude on the web/app, or attach it on a landing/download page.
 
 ## The skill's single source of truth
-`skill/SKILL.md` + `skill/system-prompt.txt` + `skill/README.md`. Edit there, then
+`skill/SKILL.md` + `skill/system-prompt.txt` + `skill/kickoff-prompt.txt` + `skill/README.md`. Edit there, then
 (a) `npm publish` a new version, and (b) rebuild the zip. The installed copy at
 `~/.claude/skills/fable5-method/` is just an output of the npx installer.

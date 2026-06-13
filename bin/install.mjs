@@ -50,6 +50,10 @@ function main() {
   console.log(`  2. It activates automatically on build / fix / debug / audit / deploy tasks.`);
   console.log(`     Force it anytime: ${C.blue}"use the fable5-method skill"${C.reset}.`);
   console.log("");
+  console.log(`${C.bold}Max efficiency:${C.reset} paste ${C.blue}kickoff-prompt.txt${C.reset} as your first chat`);
+  console.log(`  message to lock the discipline in for a high-stakes session:`);
+  console.log(`${C.dim}  ${path.join(destDir, "kickoff-prompt.txt")}${C.reset}`);
+  console.log("");
   console.log(`${C.dim}  Using a different tool (ChatGPT / Cursor / Gemini / Copilot)? Paste${C.reset}`);
   console.log(`${C.dim}  ${path.join(destDir, "system-prompt.txt")} into its custom-instructions / rules.${C.reset}`);
   console.log("");

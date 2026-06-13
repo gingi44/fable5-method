@@ -69,8 +69,24 @@ disciplined loop.
 
 ---
 
+## Maximum efficiency — the kickoff prompt
+
+For a high-stakes session you don't have to wait for the auto-trigger. Paste
+**`kickoff-prompt.txt`** as your **first message in the chat** (right after `npx`)
+to lock the discipline in from message one. It's the short, chat-ready twin of
+`system-prompt.txt`:
+
+- **`system-prompt.txt`** → the full method, for a tool's *persistent* instruction
+  box (set it once and forget it).
+- **`kickoff-prompt.txt`** → paste *into the chat* to activate it for a single
+  session — the fastest way to get maximum efficiency alongside `npx`.
+
+---
+
 ## Files
 - `SKILL.md` — the skill itself (auto-loaded by Claude Code).
-- `system-prompt.txt` — the same method as a paste-ready system prompt for any
-  other LLM/tool.
+- `system-prompt.txt` — the full method as a paste-ready system prompt for any
+  other LLM/tool's persistent instructions.
+- `kickoff-prompt.txt` — the short chat-ready activation prompt; paste it as your
+  first message for maximum efficiency in one session.
 - `README.md` — this file.
