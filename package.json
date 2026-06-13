@@ -1,0 +1,30 @@
+{
+  "name": "fable5-method",
+  "version": "1.0.1",
+  "description": "Install the fable5-method skill — a model-agnostic operating discipline that makes any AI coding assistant work like a senior engineer (diagnose from real evidence, prove by running, deterministic guarantees, adversarial self-review, respect prior decisions, leave it navigable).",
+  "bin": {
+    "fable5-method": "bin/install.mjs"
+  },
+  "type": "module",
+  "files": [
+    "bin/",
+    "skill/",
+    "README.md"
+  ],
+  "engines": {
+    "node": ">=16"
+  },
+  "keywords": [
+    "claude",
+    "claude-code",
+    "skill",
+    "ai",
+    "llm",
+    "operating-method",
+    "fable5",
+    "prompt-engineering",
+    "senior-engineer"
+  ],
+  "license": "MIT",
+  "author": "Amit Litman"
+}
