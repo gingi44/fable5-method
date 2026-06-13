@@ -29,8 +29,8 @@ npx fable5-method
 
 ### 🅱️ דרך העלאת קובץ — ל‑Claude באתר / באפליקציה
 אם אתם משתמשים ב‑Claude בדפדפן או באפליקציה (בלי טרמינל): הורידו את הקובץ
-`fable5-method.zip`, ואז בתוך Claude: **Settings → Skills → Add skill → Upload**
-ובחרו את הקובץ. זהו ✅
+**[להורדת fable5-method.zip ←](https://github.com/gingi44/fable5-method/releases/latest/download/fable5-method.zip)**
+ואז בתוך Claude: **Settings → Skills → Add skill → Upload** ובחרו את הקובץ. זהו ✅
 
 </div>
 
@@ -53,8 +53,9 @@ whenever you build or fix something. (Force it on: say *"use the fable5-method
 skill"*.) If `npx` isn't recognized, install Node.js once from https://nodejs.org.
 
 ### 🅱️ Upload a file — for Claude on the web or desktop app
-No terminal? Download **`fable5-method.zip`**, then in Claude open **Settings →
-Skills → Add skill → Upload** and choose that file. Done. ✅
+No terminal? **[Download fable5-method.zip ↓](https://github.com/gingi44/fable5-method/releases/latest/download/fable5-method.zip)**,
+then in Claude open **Settings → Skills → Add skill → Upload** and choose that
+file. Done. ✅
 
 ### Using a different AI (ChatGPT / Cursor / Gemini / Copilot)?
 It's just instructions. After installing, open `system-prompt.txt` and paste it
