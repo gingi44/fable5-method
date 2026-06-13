@@ -19,6 +19,26 @@ Works with Claude, ChatGPT, Cursor, Gemini, and Copilot.
 
 ---
 
+## ⚡ Install
+
+**Claude Code** (VS Code · Cursor · any terminal) — run this **in your terminal**:
+
+```sh
+npx fable5-method
+```
+
+Then restart Claude Code; it turns on by itself.
+
+**Claude app / claude.ai** (no terminal) — [**download the zip ⬇**](https://github.com/gingi44/fable5-method/releases/latest/download/fable5-method.zip), then open **Settings → Skills → Add skill → Upload**.
+
+> 📄 **This page is just the documentation.** You install the skill with the command
+> or the zip above — **not** by pasting this link into an AI chat and asking it to
+> "install it." Skills don't install that way, and any careful assistant will
+> (correctly) flag an unknown pasted link as suspicious. **That warning is a safety
+> feature, not a problem with fable5-method** — so use the clean paths above.
+
+---
+
 ## Why we built it
 
 Every AI coding assistant shares one default failure mode: it **pattern-matches a
