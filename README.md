@@ -2,10 +2,11 @@
 
 # fable5-method
 
-**Turn any AI coding assistant into a careful senior engineer.**
+**Make any AI think and act like Fable 5 — the careful senior-engineer model from Anthropic's Mythos family.**
 
-It checks real evidence before changing code, proves things actually work,
-never breaks what you didn't ask for, and leaves your project clean.
+This skill transplants the way Fable 5 works into whatever assistant you use: it
+checks real evidence before changing code, proves things actually work, never breaks
+what you didn't ask for, and leaves your project clean.
 Works with Claude, ChatGPT, Cursor, Gemini, and Copilot.
 
 [![npm version](https://img.shields.io/npm/v/fable5-method?color=2563eb&label=npm)](https://www.npmjs.com/package/fable5-method)
@@ -26,17 +27,19 @@ running anything, sometimes quietly changing things you never asked it to touch.
 On a toy script that's fine. On live, paying, or money/legal code it costs you
 rework, broken deploys, and trust.
 
-This package was distilled from high-output **Claude Fable 5** sessions on a real
-production platform — but what made those sessions reliable wasn't the model, it
-was the **discipline**: diagnose before touching, prove before claiming, never flip
-a switch on your own. Discipline is *behavior you can write down*, so we did — and
-because it's a method and not a model trait, it lifts **whatever AI you run it on**.
+This package was distilled from high-output **Fable 5** sessions — Fable 5 is the
+careful senior-engineer model from Anthropic's **Mythos family** — on a real
+production platform. What made those sessions reliable was the **discipline** Fable 5
+runs by default: diagnose before touching, prove before claiming, never flip a switch
+on your own. Discipline is *behavior you can write down*, so we did — and once it's
+written down, **whatever AI you run it on starts thinking and acting like Fable 5**.
 
 ## What it does
 
 It installs one set of instructions that swaps the model's "guess-and-claim" reflex
-for a six-phase senior-engineer loop. It **scales the rigor to the risk** — a typo
-stays light; a change to live/data/money/legal code gets the whole loop:
+for the same six-phase senior-engineer loop Fable 5 runs by default. It **scales the
+rigor to the risk** — a typo stays light; a change to live/data/money/legal code gets
+the whole loop:
 
 1. **Think before touching** — map the system, find the single source of truth, and
    diagnose from the *real* artifact (the actual code, row, log, rendered file) —
@@ -177,8 +180,9 @@ carousel** in minutes (research → slides → images → caption). If you creat
 
 <div align="center">
 
-Built from high-output **Claude Fable 5** sessions — it's a *method, not a model
-trait*, so it lifts whatever AI you run it on.
+Distilled from high-output **Fable 5** sessions — the careful senior-engineer model
+from Anthropic's **Mythos family**. Because it's *behavior you can write down*, any
+AI you run it on can think and act like Fable 5.
 
 MIT © Amit Litman
 
