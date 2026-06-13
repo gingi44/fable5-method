@@ -2,3 +2,5 @@ node_modules/
 dist/
 *.tgz
 _*
+# maintainer-only publish notes — never publish to the public repo
+PUBLISHING.md
