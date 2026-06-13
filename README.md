@@ -166,6 +166,15 @@ short note so the next session resumes where you ended.
 
 ---
 
+## Also from the maker
+
+I'm **Amit Litman**. I also build [**Litman Studio**](https://studio.litman-ai.com) —
+an AI studio that turns a single idea into a finished, on-brand **Hebrew Instagram
+carousel** in minutes (research → slides → images → caption). If you create content,
+**[try it free → studio.litman-ai.com](https://studio.litman-ai.com)** (3 carousels on the house).
+
+---
+
 <div align="center">
 
 Built from high-output **Claude Fable 5** sessions — it's a *method, not a model
